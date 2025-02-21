@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Tianshi Xu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tianshi
+last_name: Xu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😊
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,32 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Second-Year PhD student 
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to show in About widget
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Peking University
+    url: https://english.pku.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: envelope
+    url: 'mailto:tianshixu@stu.pku.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=YS2vV5IAAAAJ
+  - icon: fab/researchgate
+    url: https://www.researchgate.net/profile/Tianshi-Xu
+  - icon: brands/github
+    url: https://github.com/Tianshi-Xu/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/tianshi-xu-9bb21728b/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Privacy and Security of AI
+  - Privacy Preserving Deep Learning
+  - Efficient Deep Neural Networks
 
 education:
   - area: PhD Artificial Intelligence
