@@ -179,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+(My website is under updating) Tianshi Xu is now a first-year Ph.D. student at the School of Integrated Circuit, Peking University. His research interests include privacy and security of AI, especially privacy-preserving deep learning (PPDL).
