@@ -179,4 +179,4 @@ awards:
 
 ## About Me
 
-(My website is under updating ⛏) Tianshi Xu is now a first-year Ph.D. student at the School of Integrated Circuit, Peking University. His research interests include privacy and security of AI, especially privacy-preserving deep learning (PPDL).
+(My website is being updated ⛏)Tianshi Xu is now a second-year Ph.D. student at the School of Integrated Circuit, Peking University. His research interests include privacy and security of AI, especially privacy-preserving deep learning (PPDL).
