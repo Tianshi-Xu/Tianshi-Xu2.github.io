@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=YS2vV5IAAAAJ
-  - icon: fab/researchgate
+  - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Tianshi-Xu
   - icon: brands/github
     url: https://github.com/Tianshi-Xu/
